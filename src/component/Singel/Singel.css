@@ -1,0 +1,36 @@
+.singel-conainer img{
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 8px;
+
+}
+
+.singel-conainer{
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    width: 300px;
+    height: 510px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.player-info h6{
+    margin-left: 20px;
+    margin-top: 0px;
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+
+.player-info p{
+   padding: 0px;
+   margin-top: 0px;
+   margin-left: 20px;
+}
+
+.btn-cart{
+    width: 100%;
+    background-color: rgb(12, 160, 218);
+    position: absolute;
+    bottom: 0;
+}
